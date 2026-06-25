@@ -1,5 +1,5 @@
 /* ============================================
-   ROSÁRIO E SCHMITT — DESIGN SYSTEM
+   ROSÃRIO E SCHMITT â€” DESIGN SYSTEM
    ============================================ */
 
 /* ---------- Google Fonts ---------- */
@@ -46,7 +46,7 @@
   /* Gradients */
   --gradient-petrol: linear-gradient(135deg, var(--petrol-900) 0%, var(--petrol-700) 100%);
   --gradient-gold: linear-gradient(135deg, var(--gold-600) 0%, var(--gold-400) 50%, var(--gold-300) 100%);
-  --gradient-hero-overlay: linear-gradient(135deg, rgba(10, 37, 64, 0.88) 0%, rgba(19, 61, 94, 0.75) 60%, rgba(31, 95, 135, 0.6) 100%);
+  --gradient-hero-overlay: linear-gradient(135deg, rgba(10, 37, 64, 0.95) 0%, rgba(19, 61, 94, 0.88) 60%, rgba(31, 95, 135, 0.8) 100%);
   --gradient-card-hover: linear-gradient(180deg, rgba(212, 168, 75, 0.06) 0%, rgba(212, 168, 75, 0) 100%);
 
   /* Typography */
@@ -100,7 +100,7 @@
 
 html {
   scroll-behavior: smooth;
-  font-size: 16px;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -109,7 +109,7 @@ body {
   font-family: var(--font-body);
   font-weight: 400;
   line-height: 1.7;
-  color: var(--neutral-700);
+  color: var(--neutral-900);
   background-color: var(--white);
   overflow-x: hidden;
 }
