@@ -1,6 +1,6 @@
 # Rosário e Schmitt Advocacia e Consultoria - Landing Page
 
-Uma landing page profissional e moderna desenvolvida para o escritório **Rosário e Schmitt Advocacia e Consultoria**, especializado em Direito Imobiliário e Sucessório. O design transmite confiança, elegância e segurança, refletindo a seriedade dos serviços prestados.
+Uma landing page profissional e moderna desenvolvida para o escritório **Rosário e Schmitt Advocacia e Consultoria**, conduzido por advogadas especializadas em Direito Imobiliário e Sucessório. O design transmite confiança, elegância e segurança, refletindo a seriedade dos serviços prestados.
 
 ## 🚀 Tecnologias Utilizadas
 
